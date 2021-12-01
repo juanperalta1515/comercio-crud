@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\bin\Debug\comercio crud.exe.config
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\bin\Debug\comercio crud.exe
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\bin\Debug\comercio crud.pdb
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\obj\Debug\comercio crud.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\obj\Debug\comercio_crud.FrmDatos.resources
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\obj\Debug\comercio_crud.Properties.Resources.resources
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\obj\Debug\comercio crud.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\obj\Debug\comercio crud.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\obj\Debug\comercio crud.exe
+C:\Users\Usuario\source\repos\comercio crud\comercio crud\obj\Debug\comercio crud.pdb
